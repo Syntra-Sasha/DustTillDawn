@@ -7,7 +7,7 @@
 - **Environmental Storytelling**: Uncover the quirky and humorous story of the house’s unseen owner, who leads a double life as a meth cook and a passionate pastry chef.
 - **Cute NPC Interactions**: Interact with animals like a mischievous cat and a friendly dog, each with their own personalities expressed through adorable text bubbles.
 - **Progressive Level Design**: Start with cleaning the house and progress to absurd locations, like cleaning a meth lab, a club, and even space!
-- **Humor with Depth**: The humor in the game is lighthearted, but occasional darker, more surreal moments are hinted at, creating a unique tone shift.
+- **Humor with Depth**: The humor in the game is lighthearted, but occasional darker, more surreal moments are hinted at.
 
 ## Story Overview
 You play as a Roomba with the sole purpose of cleaning floors. Over time, the Roomba develops sentience, leading to a greater journey beyond the house walls. Starting from the comfort of home, you will encounter a surprising range of locations, each filled with humorous environmental details and new challenges.
