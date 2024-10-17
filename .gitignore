@@ -65,6 +65,8 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+# Ignore Unreal Engine binaries
+Binaries/
 
 # Cache files for the editor to use
 DerivedDataCache/*
