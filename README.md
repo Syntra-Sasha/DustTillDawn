@@ -13,7 +13,7 @@
 You play as a Roomba with the sole purpose of cleaning floors. Over time, the Roomba develops sentience, leading to a greater journey beyond the house walls. Starting from the comfort of home, you will encounter a surprising range of locations, each filled with humorous environmental details and new challenges.
 
 ## Game Mechanics
-- **Simple Cleaning Mechanics**: Clean various types of surfaces without directly interacting with objects, progressing through obstacles and more complex areas.
+- **Simple Cleaning Mechanics**: Clean various types of surfaces, by roomba-ing all over them.
 - **No Fail State**: Mistakes only lead to taking longer paths and repeating certain sections, keeping the game stress-free and rewarding.
 - **Power-Ups and Challenges**: Upgrade the Roomba's capabilities and navigate through amusing challenges, like avoiding a cat that sits on the Roomba to slow it down.
 
